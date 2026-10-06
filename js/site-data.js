@@ -4,13 +4,13 @@ window.SITE = {
   brand: 'CONTABIL',
 
   phone: {
-    display: '+373 69 000 000',
-    tel: '+37369000000'
+    display: '+373 60 000 000',
+    tel: '+37360000000'
   },
   messengers: {
     telegram: 'https://t.me/contabil_demo',
-    whatsapp: 'https://wa.me/37369000000',
-    viber: 'viber://chat?number=%2B37369000000'
+    whatsapp: 'https://wa.me/37360000000',
+    viber: 'viber://chat?number=%2B37360000000'
   },
   office: {
     city: 'Кишинёв',
